@@ -1,0 +1,47 @@
+body {
+	background-color: rgb(0, 0, 0);
+	text-align: center;
+	font-family: Comic Sans;
+	font-size: 1.3em;
+}
+
+h1{
+    /* position: absolute; */
+	color:white;
+	left: 690px;
+}
+
+p{
+    color:white;
+}
+
+input {
+	background-color: white;
+	font-size: 6vw;
+	width: 10vw;
+	height:10vw;
+	margin: 0;
+	color: white;
+    border-radius: 25px;
+
+}
+
+#jogador {
+	display: inline;
+
+}
+
+#reiniciar {
+    margin:auto;
+	margin-top: 2%;
+	width: 12vw;
+	height:6vw;
+	font-size: 1em;
+	color: black;
+    border-radius: 25px;
+	font-family: Comic Sans;
+	left: 490px;
+}
+
+.container {
+}
